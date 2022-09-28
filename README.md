@@ -3,6 +3,8 @@
 
 # Getting Started
 
+<img src="src/main/resources/static/img/parking-control.jpg">
+
 ## Preparação Ambiente:
 - JDK 17
 - Maven
